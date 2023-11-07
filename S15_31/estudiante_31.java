@@ -3,27 +3,25 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package S15_31;
+//no valido 1
 
-/**
- *
- * @author Usuario7
- */
 public class estudiante_31 {
-    int nombres;
-    int Apellidos;
+        // valido 1 32_AnthonyRojas
+    String nombres;
+    String apellidos;
     int Dni;
     int Telefono;
     
     public void nombres(){
-        System.out.println("Mi nombre es" + nombres);
+        System.out.println("Mi nombre es" );
     }
     public void Apellidos(){
-        System.out.println("Mi apellido es " + Apellidos);
+        System.out.println("Mi apellido es " );
     }
     public void Dni(){
-        System.out.println("Mi dni es " + Dni);
+        System.out.println("Mi dni es ");
     }
     public void Telefono(){
-        System.out.println("Mi telefono es " + Telefono);
+        System.out.println("Mi telefono es " );
     }
 }

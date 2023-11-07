@@ -4,11 +4,9 @@
  */
 package S15_31;
 
-/**
- *
- * @author Usuario7
- */
+ // este clase valido 2 32_AnthonyRojas
 public class calculadora_31 {
+     // este clase valido 2
     int suma;
     int resta;
     int dividir;

@@ -4,26 +4,23 @@
  */
 package S15_31;
 
-/**
- *
- * @author Usuario7
- */
+//valido 4 32_AnthonyRojas
 public class cursos_31 {
-    int  cta;
-    int comu;
-    int reli;
-    int rm;
+    String  cta;
+    String  comu;
+    String  reli;
+    String  rm;
     
     public void cta(){
-        System.out.println("sacastes " + cta);
+        System.out.println("sacastes " );
     }
     public void comu() {
-        System.out.println("sacastes " + comu);
+        System.out.println("sacastes " );
     }
     public void reli(){
-        System.out.println("sacastes " + reli);
+        System.out.println("sacastes " );
     }
     public void rm(){
-        System.out.println("sacastes " + rm);
+        System.out.println("sacastes " );
     }
 }

@@ -4,10 +4,7 @@
  */
 package S15_31;
 
-/**
- *
- * @author Usuario7
- */
+//no valido 3 32_AnthonyRojas
 public class animal_31 {
     int raza;
     int comida;
